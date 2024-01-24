@@ -11,4 +11,7 @@
   ],
   "author": "jaelinny",
   "license": "ISC"
+  "bin": {
+  "jaelinny": "./index.js"
+ }
 }
