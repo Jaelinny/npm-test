@@ -1,6 +1,6 @@
 {
   "name": "jaelinny",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "jaelinny",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "jaelinny",
   "license": "ISC",
   "bin": {
-  "jaelinny": "./index.js"
- }
+    "jaelinny": "./index.js"
+  }
 }
