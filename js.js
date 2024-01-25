@@ -8,4 +8,4 @@ if (presenters.length < 2) {
 const randomIndex = Math.floor(Math.random() * presenters.length);
 const selectedPresenter = presenters[randomIndex];
 
-console.log(`선택된 발표자: ${selectedPresenter}`);
+console.log(`발표자: ${selectedPresenter}`);
