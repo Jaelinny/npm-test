@@ -1,4 +1,4 @@
-# jaelinny
+# jaelinny ♡
 -  https://www.npmjs.com/package/jaelinny
 
 
@@ -111,4 +111,5 @@ $ jaelinny
 ```
 $ npm login
 $ npm publish
+
 ```
