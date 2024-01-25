@@ -26,6 +26,7 @@ class Chicken extends Food {
     }
 }
 
+
 const pizza = new Pizza(['피자헛', '도미노 피자']);
 const chicken = new Chicken(['굽네치킨', 'BBQ']);
 
