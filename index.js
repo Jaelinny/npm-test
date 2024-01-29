@@ -62,7 +62,7 @@ class RandomPrint extends Random {
   }
 
   print() {
-    const [,, ...list] = this.argv; // Using rest parameter to capture remaining elements
+    const [, , ...list] = this.argv; // Using rest parameter to capture remaining elements
 
     if (list.length < 2) {
       console.log("발표자는 2명 이상이어야 합니다.");
@@ -76,3 +76,7 @@ class RandomPrint extends Random {
 }
 
 const argv = process.argv;
+
+const listInstance = new RandomPrint(argv);
+listInstance.print();
+
